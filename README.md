@@ -14,7 +14,7 @@ The report consists of four interactive dashboards that provide both executive-l
 
 Provides a high-level overview of retail banking performance, including customers, deposits, lending, transaction activity, and credit risk.
 
-![Executive Summary](screenshots/Executive%20Summary.png)
+<img src="./screenshots/Executive Summary.png" alt="Executive Summary">
 
 ### Key Metrics
 - Total Customers
