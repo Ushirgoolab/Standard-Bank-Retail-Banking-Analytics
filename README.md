@@ -30,7 +30,7 @@ Provides a high-level overview of retail banking performance, including customer
 
 Analyses customer acquisition, segmentation, geographic distribution, account composition, and deposit contribution.
 
-![Customer and Deposit Analysis](screenshots/02-customer-deposit-analysis.png)
+<img src="./screenshots/Customer Deposit Analysis.png" alt="Customer and Deposit Analysis">
 
 ### Key Analysis
 - Monthly customer acquisition
@@ -46,7 +46,7 @@ Analyses customer acquisition, segmentation, geographic distribution, account co
 
 Examines lending exposure and credit risk across loan products, customer segments, and geographic regions.
 
-![Credit Risk Analysis](screenshots/03-credit-risk-analysis.png)
+<img src="./screenshots/Lending Credit Risk Analysis.png" alt="Credit Risk Analysis">
 
 ### Key Analysis
 - Loan book trend
@@ -62,7 +62,7 @@ Examines lending exposure and credit risk across loan products, customer segment
 
 Analyses transaction activity, monetary value, customer transaction behaviour, channel usage, and geographic performance.
 
-![Transaction and Channel Analysis](screenshots/04-transaction-channel-analysis.png)
+<img src="./screenshots/Transaction Channel Analysis.png" alt="Transaction and Channel Analysis">
 
 ### Key Analysis
 - Monthly transaction value
