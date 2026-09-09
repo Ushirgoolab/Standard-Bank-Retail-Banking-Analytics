@@ -1,0 +1,61 @@
+﻿BranchID,BranchName,Province,City,BranchType,OpenDate
+B0001,Sandton Park Branch,Gauteng,Sandton,Express,2009-09-10
+B0002,Soweto Park Branch,Gauteng,Soweto,Full Service,2015-12-05
+B0003,Welkom CBD Branch,Free State,Welkom,Full Service,2017-06-06
+B0004,Midrand Central Branch,Gauteng,Midrand,Full Service,2003-12-26
+B0005,Centurion Mall Branch,Gauteng,Centurion,Express,2011-08-02
+B0006,Johannesburg Park Branch,Gauteng,Johannesburg,Full Service,2013-05-26
+B0007,Bellville Square Branch,Western Cape,Bellville,Full Service,2015-04-05
+B0008,Gqeberha Central Branch,Eastern Cape,Gqeberha,Full Service,2009-12-27
+B0009,Centurion Mall Branch,Gauteng,Centurion,Full Service,2019-02-03
+B0010,Tzaneen Mall Branch,Limpopo,Tzaneen,Full Service,2022-03-22
+B0011,Soweto Square Branch,Gauteng,Soweto,Full Service,2017-10-12
+B0012,Umhlanga Square Branch,KwaZulu-Natal,Umhlanga,Express,2007-11-12
+B0013,Centurion Mall Branch,Gauteng,Centurion,Full Service,2018-01-07
+B0014,Mbombela Square Branch,Mpumalanga,Mbombela,Express,2010-02-23
+B0015,Mbombela Park Branch,Mpumalanga,Mbombela,Express,2008-10-09
+B0016,Polokwane Central Branch,Limpopo,Polokwane,Express,2014-12-17
+B0017,Richards Bay Central Branch,KwaZulu-Natal,Richards Bay,Express,2001-08-03
+B0018,eMalahleni Park Branch,Mpumalanga,eMalahleni,Full Service,2012-07-09
+B0019,Richards Bay Square Branch,KwaZulu-Natal,Richards Bay,Business Centre,2002-03-29
+B0020,Sandton Square Branch,Gauteng,Sandton,Full Service,1995-02-23
+B0021,George Square Branch,Western Cape,George,Express,2013-10-13
+B0022,Mahikeng Central Branch,North West,Mahikeng,Full Service,2018-01-03
+B0023,Durban Square Branch,KwaZulu-Natal,Durban,Full Service,2011-04-24
+B0024,Gqeberha CBD Branch,Eastern Cape,Gqeberha,Business Centre,2009-04-10
+B0025,Mthatha Mall Branch,Eastern Cape,Mthatha,Full Service,2003-01-18
+B0026,Centurion CBD Branch,Gauteng,Centurion,Full Service,2003-10-02
+B0027,Pretoria Square Branch,Gauteng,Pretoria,Full Service,2006-10-15
+B0028,Paarl Square Branch,Western Cape,Paarl,Express,2005-03-19
+B0029,Soweto CBD Branch,Gauteng,Soweto,Full Service,2011-06-23
+B0030,Bloemfontein Park Branch,Free State,Bloemfontein,Express,1997-09-12
+B0031,Paarl CBD Branch,Western Cape,Paarl,Full Service,1996-11-04
+B0032,Soweto Mall Branch,Gauteng,Soweto,Express,2006-03-27
+B0033,Sandton CBD Branch,Gauteng,Sandton,Full Service,1998-08-21
+B0034,Cape Town CBD Branch,Western Cape,Cape Town,Express,1999-07-08
+B0035,Pretoria CBD Branch,Gauteng,Pretoria,Full Service,2015-03-20
+B0036,eMalahleni Mall Branch,Mpumalanga,eMalahleni,Full Service,2010-08-27
+B0037,Pretoria Central Branch,Gauteng,Pretoria,Full Service,2007-08-31
+B0038,Pretoria Square Branch,Gauteng,Pretoria,Full Service,2004-12-30
+B0039,eMalahleni Square Branch,Mpumalanga,eMalahleni,Full Service,2010-11-07
+B0040,Stellenbosch CBD Branch,Western Cape,Stellenbosch,Business Centre,2006-12-14
+B0041,Johannesburg Central Branch,Gauteng,Johannesburg,Full Service,2014-11-30
+B0042,Upington CBD Branch,Northern Cape,Upington,Full Service,2008-05-23
+B0043,Bellville CBD Branch,Western Cape,Bellville,Full Service,2011-02-02
+B0044,Richards Bay Square Branch,KwaZulu-Natal,Richards Bay,Full Service,1997-05-24
+B0045,Bloemfontein Central Branch,Free State,Bloemfontein,Full Service,1998-11-27
+B0046,Bellville Square Branch,Western Cape,Bellville,Full Service,2018-07-26
+B0047,East London Central Branch,Eastern Cape,East London,Express,1997-05-31
+B0048,Midrand Park Branch,Gauteng,Midrand,Full Service,2002-06-10
+B0049,Durban Square Branch,KwaZulu-Natal,Durban,Express,2018-04-11
+B0050,Bloemfontein Mall Branch,Free State,Bloemfontein,Express,1998-09-05
+B0051,Bellville Square Branch,Western Cape,Bellville,Full Service,2009-10-05
+B0052,Mbombela Park Branch,Mpumalanga,Mbombela,Full Service,2021-11-08
+B0053,Umhlanga Park Branch,KwaZulu-Natal,Umhlanga,Express,2015-03-26
+B0054,Sandton CBD Branch,Gauteng,Sandton,Full Service,2020-02-15
+B0055,Paarl Central Branch,Western Cape,Paarl,Full Service,2022-09-22
+B0056,Tzaneen Mall Branch,Limpopo,Tzaneen,Business Centre,2009-11-14
+B0057,Cape Town CBD Branch,Western Cape,Cape Town,Business Centre,2005-10-05
+B0058,eMalahleni CBD Branch,Mpumalanga,eMalahleni,Full Service,1997-02-26
+B0059,Polokwane Mall Branch,Limpopo,Polokwane,Full Service,2016-07-01
+B0060,George Mall Branch,Western Cape,George,Full Service,2020-11-23

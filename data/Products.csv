@@ -1,0 +1,21 @@
+﻿ProductID,ProductName,ProductCategory,ProductType,InterestRate,MonthlyFee,LaunchDate,IsActive
+P001,Everyday Transaction Account,Transactional,Current Account,0.002,79,2021-01-01,True
+P002,Digital Transaction Account,Transactional,Current Account,0.001,25,2022-01-01,True
+P003,Youth Transaction Account,Transactional,Current Account,0.001,12,2023-01-01,True
+P004,Flexi Savings Account,Savings,Savings,0.045,0,2024-01-01,True
+P005,Goal Savings Account,Savings,Savings,0.055,0,2021-01-01,True
+P006,Premium Savings Account,Savings,Savings,0.062,15,2022-01-01,True
+P007,32-Day Notice Deposit,Deposits,Notice Deposit,0.075,0,2023-01-01,True
+P008,Fixed Deposit 12M,Deposits,Fixed Deposit,0.085,0,2024-01-01,True
+P009,Money Market Account,Deposits,Money Market,0.068,35,2021-01-01,True
+P010,Classic Credit Card,Credit,Credit Card,0.215,55,2022-01-01,True
+P011,Gold Credit Card,Credit,Credit Card,0.205,95,2023-01-01,True
+P012,Platinum Credit Card,Credit,Credit Card,0.185,185,2024-01-01,True
+P013,Home Loan,Lending,Home Loan,0.1125,0,2021-01-01,True
+P014,Vehicle Finance,Lending,Vehicle Finance,0.139,0,2022-01-01,True
+P015,Personal Loan,Lending,Personal Loan,0.229,0,2023-01-01,True
+P016,Business Term Loan,Business Lending,Business Loan,0.165,0,2024-01-01,True
+P017,Credit Facility,Credit,Credit Facility,0.198,45,2021-01-01,True
+P018,Private Banking Account,Transactional,Current Account,0.012,420,2022-01-01,True
+P019,Private Money Market,Deposits,Money Market,0.078,75,2023-01-01,True
+P020,SME Business Account,Business Banking,Current Account,0.002,160,2024-01-01,True
